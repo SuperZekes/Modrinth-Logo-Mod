@@ -14,6 +14,7 @@ You can craft it like this:
 ![recipe](https://cdn.modrinth.com/data/OW6NgXk1/images/0afc5d773696a7be407670180751a24289746d40.png)
 
 The item can also be enchanted using an anvil as seen here: ![enchanted logo](https://cdn-raw.modrinth.com/data/OW6NgXk1/images/7e2287986583e32b4de6cb86da8476a50e68eb56.png)
-If any issues are had join my <a href="https://discord.com/invite/4ZDvB4k2j8">discord server</a> for help or use the mods <a href="https://github.com/SuperZekes/Modrinth-Logo-Mod/issues">github issues page</a>.
+
+If you find any issues with the mod make an issue <a href="https://github.com/SuperZekes/Modrinth-Logo-Mod/issues">here</a>
 
 # 
