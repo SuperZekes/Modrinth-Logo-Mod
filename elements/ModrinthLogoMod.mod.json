@@ -1,0 +1,11 @@
+{
+  "_fv": 47,
+  "_type": "tab",
+  "definition": {
+    "name": "Modrinth Logo Mod",
+    "icon": {
+      "value": "CUSTOM:ModrinthLogo"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "mod_elements": [
+    {
+      "name": "ModrinthLogo",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "modrinth_logo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modrinthlogomod/item/ModrinthLogoItem.java",
+          "src/main/resources/assets/modrinth_logo_mod/models/item/modrinth_logo.json"
+        ]
+      }
+    },
+    {
+      "name": "ModrinthLogoMod",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "modrinth_logo_mod",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ModrinthLogoRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "modrinth_logo_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/modrinth_logo_mod/recipes/modrinth_logo_recipe.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.modrinth_logo_mod.modrinth_logo": "§aModrinth Logo",
+      "item_group.modrinth_logo_mod.modrinth_logo_mod": "Modrinth Logo Mod"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "modrinth_logo_mod",
+    "modName": "Modrinth Logo Mod",
+    "version": "1.0.0",
+    "author": "Danedane, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.modrinthlogomod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}
